@@ -14,7 +14,7 @@ interface:
     openNewTab: true
 
 registration:
-  socialLogins: ["discord", "facebook", "github", "google", "openid"]
+  socialLogins: ["google"]
 
 endpoints:
   assistants:
